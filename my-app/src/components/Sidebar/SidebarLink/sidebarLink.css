@@ -1,0 +1,24 @@
+.sideBarLinkOpen {
+    width: 100%;
+    background-color: white;
+    height: 5%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 2vh;
+
+}
+.sideBarLinkClosed {
+    display: none;
+}
+.sidebarLinkIcon {
+    width: 20%;
+    height: 100%;
+}
+.sidebarLinkIcon img {
+    width: 80%;
+    height: 80%;
+}
+.sideBarLinkText {
+    width: 80%;
+    height: 100%;
+}
